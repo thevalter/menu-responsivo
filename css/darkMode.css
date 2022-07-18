@@ -1,0 +1,27 @@
+  .dark,
+  .dark .menu {
+      background-color: #263238;
+      transition: background .4s;
+  }
+
+  .dark h1 {
+      color: #FFF;
+  }
+
+  .dark .bi-sun {
+      display: none;
+  }
+
+  .dark .bi-moon {
+      display: block;
+      color: #eae7e7;
+  }
+
+  .dark .sideMenu i {
+      color: #e0dfdf;
+  }
+
+  .dark .links a,
+  .dark .buttons button{
+    color: #96a2bc;
+  }
